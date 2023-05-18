@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:textColor="@color/black"
-        android:text="Holi Menu"
+        android:text="Menu Principal"
         android:textStyle="bold"/>
 
 </LinearLayout>
