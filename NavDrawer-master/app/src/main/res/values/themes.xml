@@ -3,10 +3,6 @@
     <style name="Base.Theme.NavDrawer" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-
-        <!-- Configuraciones para el menú -->
-        <item name="android:itemBackground">@color/lavender</item>
-        <!--<item name="android:itemTextColor">@color/purple_200</item>-->
     </style>
 
     <style name="Theme.NavDrawer" parent="Base.Theme.NavDrawer" />

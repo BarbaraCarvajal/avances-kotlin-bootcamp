@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">NavDrawer</string>
-    <string name="drawerClose">el menu se cierra</string>
-    <string name="drawerOpen">el menu se abre</string>
-</resources>
