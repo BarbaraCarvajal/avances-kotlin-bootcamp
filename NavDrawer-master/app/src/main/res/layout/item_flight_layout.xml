@@ -5,6 +5,7 @@
     android:layout_height="220dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:clickable="true"
+    android:layout_margin="10dp"
     android:focusable="true"
     app:cardCornerRadius="20dp"
     android:foreground="?attr/selectableItemBackground">
@@ -24,6 +25,7 @@
             android:background="#1000"/> <!--Transparencia-->
 
         <TextView
+            android:id="@+id/txtCity"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ciudad de destino"
@@ -34,7 +36,7 @@
             android:shadowColor="@color/black"/>
 
         <ImageButton
-            
+            android:id="@+id/btnDelete"
             android:layout_width="35dp"
             android:layout_height="35dp"
             android:layout_gravity="end"
