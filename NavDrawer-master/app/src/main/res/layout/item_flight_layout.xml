@@ -7,7 +7,7 @@
     android:clickable="true"
     android:layout_margin="10dp"
     android:focusable="true"
-    app:cardCornerRadius="20dp"
+    app:cardCornerRadius="28dp"
     android:foreground="?attr/selectableItemBackground">
 
     <FrameLayout
